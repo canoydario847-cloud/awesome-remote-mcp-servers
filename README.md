@@ -56,6 +56,15 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 - **Reliability**: Proven track record of uptime and performance
 - **Community**: Active user community and support channels
 
+## Privi listing and external checks
+
+[![Privi Appside listing](https://img.shields.io/badge/Appside-Privi_listing-blue)](https://appside.build/mcp-servers/privi/)
+
+Privi's current Ledger MCP endpoint is `https://privi-ledger-aqe5.onrender.com/mcp`.
+The [Appside listing](https://appside.build/mcp-servers/privi/) may still show the retired endpoint while its update is reviewed. The badge links to the directory; it does not assert owner verification or current uptime.
+
+For additional remote servers and dated handshake results, see [Verified Remote MCP Servers](https://github.com/odedkovach/verified-remote-mcp-servers). Ownership claims require separate domain verification.
+
 ## Remote MCP Server List
 
 | Name | Category | URL | Authentication | Maintainer |
@@ -119,6 +128,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Parallel Search MCP | Web Search | `https://search-mcp.parallel.ai/mcp` | OAuth2.1 | [Parallel Web Systems](https://parallel.ai) |
 | Peek.com | Other | `https://mcp.peek.com` | Open | [Peek.com](https://peek.com) |
 | Plaid | Payments | `https://api.dashboard.plaid.com/mcp/sse` | OAuth2.1 🔐| [Plaid](https://plaid.com) |
+| Privi Ledger | Security | `https://privi-ledger-aqe5.onrender.com/mcp` | API Key / x402 for paid tools; discovery open | [Privi World Corp](https://github.com/canoydario847-cloud/Privi-Network) |
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
