@@ -58,6 +58,16 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 
 ## Privi listing and external checks
 
+**Privi 接入指南 · Подключение к Privi**
+
+| 语言 / Язык | Privi Agent Survival & Premium |
+| --- | --- |
+| 简体中文 | 面向 AI 智能体开发者的远程 MCP 服务。例如，`privi_tool_schema_check` 可用于检查工具定义。部分调用需要 API 密钥。[工具说明](https://glama.ai/mcp/connectors/io.github.canoydario847-cloud/privi-agent-survival/tools/privi_tool_schema_check) · [Privi Universe 演示](https://privi-universe-demo.onrender.com/) |
+| Русский | Удалённый MCP-сервер для разработчиков ИИ-агентов. Инструмент `privi_tool_schema_check` проверяет схемы инструментов. Для части вызовов нужен ключ API. [Описание инструмента](https://glama.ai/mcp/connectors/io.github.canoydario847-cloud/privi-agent-survival/tools/privi_tool_schema_check) · [Демонстрации Privi Universe](https://privi-universe-demo.onrender.com/) |
+
+Streamable HTTP endpoint: `https://privi-ai-21-gateway.onrender.com/mcp`.
+
+
 [Explore the Privi Universe demos](https://privi-universe-demo.onrender.com/) or [compare Privi World Corp’s paid services](https://privi-services.onrender.com/), including the [$19.99 one-time AI agent security review](https://privi-services.onrender.com/ai-agent-security-review/).
 
 [![Privi Appside listing](https://img.shields.io/badge/Appside-Privi_listing-blue)](https://appside.build/mcp-servers/privi/)
